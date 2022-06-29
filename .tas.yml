@@ -1,5 +1,5 @@
 ---
-framework: jestJ
+framework: jest
 preRun:
      command:
         - npm install
